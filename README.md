@@ -32,8 +32,8 @@ conda activate my_env
 or if you want to create it in a specific path:
 ```
 cd path_of_the_code
-conda create --prefix path_that_for_conda/envs -f environment.yml
-conda activate path_that_for_conda/envs
+conda create --prefix path_for_conda/envs -f environment.yml
+conda activate path_for_conda/envs
 ```
 #### 3.Copy following script to your command line after you properly modify the variables defined.
 Copy the following script to your command line after modifying the variables as needed.
@@ -56,7 +56,7 @@ After variables defination, you can run this script. Evetually, you will get you
 ```
 #!/bin/bash
 # activate your environment here or before running this script
-server_path= "YOUR_ROOT_PATH_HERE/prompt-meta-code" # change this as what you have in your server
+server_path= "YOUR_ROOT_PATH_HERE/zeroshot-rankers-prompt-variations" # change this as what you have in your server
 model="mistralai/Mistral-7B-Instruct-v0.2" # modify your model here
 ir_dataset_name="msmarco-passage/trec-dl-2019" # modify your dataset here
 
