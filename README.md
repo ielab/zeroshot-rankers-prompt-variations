@@ -1,5 +1,25 @@
 # zeroshot-rankers-prompt-variations
 
+## Citation
+If you find this code useful for your research, please consider citing our ECIR 2025 paper: "An Investigation of Prompt Variations for Zero-shot LLM-based Rankers".
+
+BibTeX entry:
+```
+@inproceedings{sun2025investigation,
+  title = {An Investigation of Prompt Variations for Zero-shot LLM-based Rankers},
+  author = {Sun, Shuoqi and Zhuang, Shengyao and Wang, Shuai and Zuccon, Guido},
+  editor = {Hauff, Claudia and Macdonald, Craig and Jannach, Dietmar and Kazai, Gabriella and Nardini, Franco Maria and Pinelli, Fabio and Silvestri, Fabrizio and Tonellotto, Nicola},
+  booktitle = {Advances in Information Retrieval},
+  year = {2025},
+  publisher = {Springer Nature Switzerland},
+  address = {Cham},
+  pages = {185--201},
+  isbn = {978-3-031-88711-6},
+  doi = {10.1007/978-3-031-88711-6_12},
+  url = {https://doi.org/10.1007/978-3-031-88711-6_12},
+}
+```
+
 ## Large Language Models Used in This Research
 | LLMs             | Name in Hugging Face              |
 |------------------|-----------------------------------|
