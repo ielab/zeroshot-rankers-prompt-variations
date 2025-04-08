@@ -1,7 +1,7 @@
 # zeroshot-rankers-prompt-variations
 
 ## Citation
-If you find this code useful for your research, please consider reading and citing our ECIR 2025 paper: "An Investigation of Prompt Variations for Zero-shot LLM-based Rankers".
+If you find this code useful for your research, please consider reading and citing our ECIR 2025 paper: "An Investigation of Prompt Variations for Zero-shot LLM-based Rankers". This paper is available at [conference proceedings](https://link.springer.com/chapter/10.1007/978-3-031-88711-6_12) and [arXiv pre-print](https://arxiv.org/abs/2406.14117).
 
 BibTeX entry:
 ```
